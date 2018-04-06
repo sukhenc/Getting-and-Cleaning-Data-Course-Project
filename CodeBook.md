@@ -7,12 +7,12 @@ The first row contains the names of the variables, which are listed and describe
 
 * `subject` - The ID of the test subject, ranges from 1 to 30. 
 * `activity` - The type of activity performed when the corresponding measurements were taken. String with 6 possible values:
-	WALKING: The subject was walking
-	WALKING_UPSTAIRS: The subject was walking upstairs
-	WALKING_DOWNSTAIRS: The subject was walking downstairs
-	SITTING: The subject was sitting
-	STANDING: The subject was standing
-	LAYING: The subject was laying
+	* WALKING: The subject was walking
+	* WALKING_UPSTAIRS: The subject was walking upstairs
+	* WALKING_DOWNSTAIRS: The subject was walking downstairs
+	* SITTING: The subject was sitting
+	* STANDING: The subject was standing
+	* LAYING: The subject was laying
 
 ## Measurements	-  average of each original variable
 
